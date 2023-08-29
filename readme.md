@@ -19,9 +19,9 @@
 <div align="center">
    <br>
    
-   # **the latest version of 1.0.2🎉**
-   ## Changes in the new version of **1.0.2**
-   **- Release. -**  
+   # **the latest version of 1.0.3🎉**
+   ## Changes in the new version of **1.0.3**
+   **- fix code -**  
    <br>
 
 </div>
