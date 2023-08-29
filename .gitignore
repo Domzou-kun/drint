@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+### drint ###
+
+*egg-info
+*__pycache__
+/dist
+/build
